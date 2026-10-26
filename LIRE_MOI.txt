@@ -1,0 +1,8 @@
+NAO Motion Lab V2.1
+
+1. Decompressez le ZIP.
+2. Double-cliquez sur index.html.
+3. Ouvrez avec Google Chrome ou Microsoft Edge.
+4. Les fonctions URDF demandent de choisir vos fichiers locaux.
+
+Note: l affichage de fichiers HTML dans un apercu ChatGPT peut etre limite; telechargez le fichier avant de l ouvrir.
